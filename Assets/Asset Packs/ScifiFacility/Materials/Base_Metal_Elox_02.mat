@@ -9,6 +9,11 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: Base_Metal_Elox_02
   m_Shader: {fileID: 4800000, guid: 31f9c3205a246aa4a97efe9942828bf1, type: 3}
+<<<<<<< HEAD:Assets/Asset Packs/ScifiFacility/Materials/Base_Metal_Elox_02.mat
+=======
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+>>>>>>> feature/ship-level:Assets/ScifiFacility/Materials/Base_Metal_Elox_02.mat
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 5
@@ -17,6 +22,7 @@ Material:
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
+  m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -133,7 +139,7 @@ Material:
     - _AlphaCutoff: 0.5
     - _BaseDielectricSmoothness: 1
     - _BaseDirtAmount: 0.001
-    - _BaseDirtStrength: 0.25
+    - _BaseDirtStrength: 0.001
     - _BaseMetallic: 1
     - _BaseMetalness: 1
     - _BaseNormalStrength: 0
@@ -143,7 +149,11 @@ Material:
     - _BumpScale: 1
     - _Cutoff: 0.5
     - _DetailCavityStrength: 0
+<<<<<<< HEAD:Assets/Asset Packs/ScifiFacility/Materials/Base_Metal_Elox_02.mat
     - _DetailDirtStrength: 0.207
+=======
+    - _DetailDirtStrength: 0
+>>>>>>> feature/ship-level:Assets/ScifiFacility/Materials/Base_Metal_Elox_02.mat
     - _DetailEdgeMetallicSmoothness: 0.74
     - _DetailEdgeSmoothness: 0.347
     - _DetailEdgeStrength: 1

@@ -9,6 +9,11 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: Base_Rubber
   m_Shader: {fileID: 4800000, guid: f533eb3a2e980be4fb75f9c6fcf859ed, type: 3}
+<<<<<<< HEAD:Assets/Asset Packs/ScifiFacility/Materials/Base_Rubber.mat
+=======
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+>>>>>>> feature/ship-level:Assets/ScifiFacility/Materials/Base_Rubber.mat
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 5
@@ -17,6 +22,7 @@ Material:
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
+  m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -124,7 +130,7 @@ Material:
     m_Floats:
     - _AlphaCutoff: 0.5
     - _BaseDirtAmount: 0.001
-    - _BaseDirtStrength: 0.57
+    - _BaseDirtStrength: 0.001
     - _BaseMetallic: 0
     - _BaseMetalness: 1
     - _BaseNormalStrength: 0.775

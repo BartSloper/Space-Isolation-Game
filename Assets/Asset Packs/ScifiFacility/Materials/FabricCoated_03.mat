@@ -180,14 +180,20 @@ Material:
     - _A: 1
     - _AlphaClip: 0
     - _AlphaCutoff: 0.5
+<<<<<<< HEAD:Assets/Asset Packs/ScifiFacility/Materials/FabricCoated_03.mat
     - _AlphaToMask: 0
+=======
+>>>>>>> feature/ship-level:Assets/ScifiFacility/Materials/FabricCoated_03.mat
     - _B: 1
     - _BaseMetallic: 0.764
     - _BaseNormalStrength: 0.273
     - _BaseOcclusion: 0
     - _BaseSmoothness: 1
     - _Blend: 0
+<<<<<<< HEAD:Assets/Asset Packs/ScifiFacility/Materials/FabricCoated_03.mat
     - _BlendModePreserveSpecular: 1
+=======
+>>>>>>> feature/ship-level:Assets/ScifiFacility/Materials/FabricCoated_03.mat
     - _Brightness: 1
     - _BumpScale: 1
     - _CarMetallic: 0.5049318
@@ -206,7 +212,10 @@ Material:
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
+<<<<<<< HEAD:Assets/Asset Packs/ScifiFacility/Materials/FabricCoated_03.mat
     - _DstBlendAlpha: 0
+=======
+>>>>>>> feature/ship-level:Assets/ScifiFacility/Materials/FabricCoated_03.mat
     - _EnvironmentReflections: 0
     - _FlakeColorVariationAmount: 0.284
     - _FlakesBrightness: 1
@@ -239,7 +248,10 @@ Material:
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
+<<<<<<< HEAD:Assets/Asset Packs/ScifiFacility/Materials/FabricCoated_03.mat
     - _SrcBlendAlpha: 1
+=======
+>>>>>>> feature/ship-level:Assets/ScifiFacility/Materials/FabricCoated_03.mat
     - _Surface: 0
     - _Tilling: 1
     - _WorkflowMode: 1
