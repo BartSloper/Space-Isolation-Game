@@ -9,11 +9,6 @@ Material:
   m_PrefabAsset: {fileID: 0}
   m_Name: Stripes_orange
   m_Shader: {fileID: 4800000, guid: 32e0804a238b16a4c985f8aecc0f0a85, type: 3}
-<<<<<<< HEAD:Assets/Asset Packs/ScifiFacility/Materials/Stripes_orange.mat
-=======
-  m_Parent: {fileID: 0}
-  m_ModifiedSerializedProperties: 0
->>>>>>> feature/ship-level:Assets/ScifiFacility/Materials/Stripes_orange.mat
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
@@ -22,7 +17,6 @@ Material:
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
-  m_LockedProperties: _TintColor
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -97,7 +91,7 @@ Material:
     - _BumpScale: 1
     - _Cutoff: 0.9
     - _DetailNormalMapScale: 1
-    - _DirtAmount: 0
+    - _DirtAmount: 0.45
     - _DirtLevel: 0.098
     - _DstBlend: 0
     - _EnvironmentReflections: 1

@@ -84,13 +84,7 @@ Material:
     m_Ints: []
     m_Floats:
     - _AlphaClip: 0
-<<<<<<< HEAD:Assets/Asset Packs/ScifiFacility/Materials/Hull.mat
-    - _AlphaToMask: 0
     - _Blend: 0
-    - _BlendModePreserveSpecular: 1
-=======
-    - _Blend: 0
->>>>>>> feature/ship-level:Assets/ScifiFacility/Materials/Hull.mat
     - _BumpScale: 0.5
     - _ClearCoatMask: 0
     - _ClearCoatSmoothness: 0
@@ -99,10 +93,6 @@ Material:
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
     - _DstBlend: 0
-<<<<<<< HEAD:Assets/Asset Packs/ScifiFacility/Materials/Hull.mat
-    - _DstBlendAlpha: 0
-=======
->>>>>>> feature/ship-level:Assets/ScifiFacility/Materials/Hull.mat
     - _EnvironmentReflections: 1
     - _GlossMapScale: 1
     - _Glossiness: 0.5
@@ -117,10 +107,6 @@ Material:
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
-<<<<<<< HEAD:Assets/Asset Packs/ScifiFacility/Materials/Hull.mat
-    - _SrcBlendAlpha: 1
-=======
->>>>>>> feature/ship-level:Assets/ScifiFacility/Materials/Hull.mat
     - _Surface: 0
     - _UVSec: 0
     - _WorkflowMode: 1
