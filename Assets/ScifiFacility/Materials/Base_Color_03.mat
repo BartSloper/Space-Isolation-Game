@@ -8,17 +8,18 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Base_Color_03
-  m_Shader: {fileID: 4800000, guid: fe40ccd092f87e84e858fa22d461031b, type: 3}
+  m_Shader: {fileID: 4800000, guid: 31f9c3205a246aa4a97efe9942828bf1, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
   m_ValidKeywords: []
-  m_InvalidKeywords:
-  - _DETAIL_MULX2
-  - _NORMALMAP
+  m_InvalidKeywords: []
   m_LightmapFlags: 5
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1
   stringTagMap: {}
   disabledShaderPasses: []
+  m_LockedProperties: 
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
@@ -126,11 +127,24 @@ Material:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
+    - _AlphaCutoff: 0.5
     - _BaseDielectricSmoothness: 0.9
     - _BaseDirtAmount: 0.001
-    - _BaseDirtStrength: 0.05
+    - _BaseDirtStrength: 0.001
     - _BaseMetallic: 0
     - _BaseMetalness: 1
     - _BaseNormalStrength: 0.4
@@ -140,7 +154,7 @@ Material:
     - _BumpScale: 1
     - _Cutoff: 0.5
     - _DetailCavityStrength: 0
-    - _DetailDirtStrength: 0.18
+    - _DetailDirtStrength: 0
     - _DetailEdgeSmoothness: 0.68
     - _DetailEdgeStrength: 1
     - _DetailEdgeWear: 0.3
@@ -151,6 +165,7 @@ Material:
     - _DstBlend: 0
     - _EdgeMetallicSmoothness: 0.7
     - _EdgeSmoothness: 0.72
+    - _EnvironmentReflections: 1
     - _Float0: 0
     - _GlossMapScale: 1
     - _Glossiness: 0.654
@@ -161,6 +176,9 @@ Material:
     - _Mode: 0
     - _OcclusionStrength: 1
     - _Parallax: 0.02
+    - _QueueControl: 0
+    - _QueueOffset: 0
+    - _ReceiveShadows: 1
     - _SmoothnessTextureChannel: 0
     - _SpecularHighlights: 1
     - _SrcBlend: 1
